@@ -1,5 +1,8 @@
-### Hi there 👋
 
+<div align="center">
+    <p>
+    <img src="https://capsule-render.vercel.app/api?text=📊%20My%20GitHub%20Statistics&fontSize=30&animation=fadeIn&type=transparent&color=gradient&height=100" alt="github statistics" />
+</p>
 
 <table>
     <tr>
@@ -40,6 +43,7 @@
     </tr>
 </table>
 
+</div>
 
 <!--
 **vishal-gg/vishal-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
