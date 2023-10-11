@@ -16,9 +16,9 @@
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-gg&show_icons=true&locale=en&layout=compact&theme=codeSTACKr"
       />
-    <source media="(prefers-color-scheme: light)"srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-gg&show_icons=true&locale=en&layout=compact&theme=default"
+   <source media="(prefers-color-scheme: light)"srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-gg&show_icons=true&locale=en&layout=compact&theme=default"
       />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-gg&show_icons=true&locale=en&layout=compact&theme=default" alt="Vi's Most Used GitHub Languages" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-gg&show_icons=true&locale=en&layout=compact&theme=default" alt="Vi's Most Used GitHub Languages" />
  </picture>
  
 
