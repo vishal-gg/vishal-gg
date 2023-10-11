@@ -4,7 +4,7 @@
     <tr>
         <td align="center">
          <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vishal-gg&show_icons=true&locale=en&&theme=codeSTACKr" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vishal-gg&show_icons=true&rank_icon=github&locale=en&&theme=codeSTACKr" />
    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vishal-gg&show_icons=true&locale=en&&theme=default" />
    <img src="https://github-readme-stats.vercel.app/api?username=vishal-gg&show_icons=true&locale=en&&theme=default" alt="Vi's GitHub Stats" />
  </picture>
