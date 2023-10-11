@@ -1,12 +1,61 @@
 ### Hi there 👋
 
 
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vishal-gg&show_icons=true&locale=en&&theme=codeSTACKr" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vishal-gg&show_icons=true&locale=en&&theme=default" />
-    <img src="https://github-readme-stats.vercel.app/api?username=vishal-gg&show_icons=true&locale=en&&theme=holi" alt="Vishal's GitHub Stats">
-  </picture>
+ <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="
+          https://github-readme-stats.vercel.app/api?username=vishal-gg&show_icons=true&locale=en&&theme=codeSTACKr
+        "
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="
+          https://github-readme-stats.vercel.app/api?username=vishal-gg&show_icons=true&locale=en&&theme=default
+        "
+      />
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=vishal-gg&show_icons=true&locale=en&&theme=default"
+        alt="Vi's GitHub Stats"
+      />
+    </picture>
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="
+          https://github-readme-streak-stats.herokuapp.com/?user=vishal-gg&theme=codeSTACKr
+        "
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="
+          https://github-readme-streak-stats.herokuapp.com/?user=vishal-gg&theme=default
+        "
+      />
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-gg&theme=default"
+        alt="Vi's GitHub Contribution Streak"
+      />
+    </picture>
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="
+          https://github-readme-stats.vercel.app/api/top-langs?username=vishal-gg&show_icons=true&locale=en&layout=compact&theme=codeSTACKr
+        "
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="
+          https://github-readme-stats.vercel.app/api/top-langs?username=vishal-gg&show_icons=true&locale=en&layout=compact&theme=default
+        "
+      />
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-gg&show_icons=true&locale=en&layout=compact&theme=codeSTACKr"
+        alt="Vi's Most Used GitHub Languages"
+      />
+    </picture>
+ 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal-gg/vishal-gg/output/github-snake-dark.svg" />
