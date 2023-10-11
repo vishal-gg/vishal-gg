@@ -1,8 +1,6 @@
-<img src="./gif/my-waifu.gif" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi!%20There&fontSize=60" />
 
-![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&center=true&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)
+<p align="center"><img src="http://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&center=true&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" /></p>
 
   <h2 align="center">💥 Teach Stack 💥</h2>
 <p align="center">
@@ -44,9 +42,9 @@ If you're interested in collaboration or just want to chat:
 
 📧 **Email**: <a href="mailto:vishalkumarggv70@gmail.com">vishalkumarggv70@gmail.com</a> <br>
 🌐 **LinkedIn**: <a href="https://www.linkedin.com/in/vishalsah-webdev">vishalsah-webdev</a> <br>
-❌ **X**: <a href="#">@handle</a> <br>
+❌ **Twitter**: <a href="#">@handle</a> <br>
 📸 **Instagram**: <a href="#">im.vishal_</a> <br>
-<br><br><br>
+<br><br>
 
 
 ## 📈 My GitHub Statistics
