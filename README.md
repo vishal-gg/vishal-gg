@@ -1,3 +1,55 @@
+<img src="./gif/my-waifu.gif" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi!%20There&fontSize=60" />
+
+![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&center=true&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)
+
+  <h2 align="center">💥 Teach Stack 💥</h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=css,kubernetes,docker,c,react&theme=light" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=js,html,css,kubernetes,docker,c,react&theme=light" />
+</p>
+  
+## 🎨 My Creative Toolbox 🧰
+#### 🖥️ Languages & Frameworks:
+
+JavaScript: 🌌 Node.js, 🚀 Express.js
+Python: 🐍 Django, 🍜 Flask
+Java: ☕ Spring Boot
+🛠️ Tools & Platforms:
+
+Frontend: 🎨 React, ⚛️ Vue, 🅰️ Angular
+Database: 🐘 PostgreSQL, 🌱 MongoDB, 🚀 GraphQL
+Version Control: 🌍 Git & 🐙 GitHub
+🌐 Cloud & Deployment:
+
+🚢 Docker
+☁️ AWS & 🌩️ Azure
+🤖 DevOps:
+
+🧪 Travis CI, 🌀 Jenkins
+🐳 Kubernetes
+🔧 Editors & IDEs:
+
+🆚 VS Code
+💼 IntelliJ IDEA
+
+## 💻 My Work Experience
+
+
+## 🌐 Connect With Me
+If you're interested in collaboration or just want to chat:
+<div style="display: flex; align-items: center">
+  <p>
+    📧 <strong>Email</strong>: <a href="mailto:vishalkumarggv70@gmail.com">vishalkumarggv70@gmail.com</a> <br>
+    🌐 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/vishalsah-webdev">vishalsah-webdev</a> <br>
+    ❌ <strong>X</strong>: <a href="#">@handle</a> <br>
+    📸 <strong>Instagram</strong>: <a href="#">im.vishal_</a>
+  </p>
+  
+  <img src="./gif/rotating-earth.gif" width="200" />
+</div>
 
 ## 📈 My GitHub Statistics
 <table>
