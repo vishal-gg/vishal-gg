@@ -1,9 +1,6 @@
 
 <div align="center">
-    <p>
-    <img src="https://capsule-render.vercel.app/api?text=📊%20My%20GitHub%20Statistics&fontSize=30&animation=fadeIn&type=transparent&color=gradient&height=100" alt="github statistics" />
-</p>
-
+<h3>📈 My GitHub Statistics</h3>
 <table>
     <tr>
         <td align="center">
