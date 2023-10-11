@@ -37,15 +37,15 @@ Version Control: 🌍 Git & 🐙 GitHub
 
 ## 💻 My Work Experience
 
-<img align="right" src="./gif/rotating-earth.gif" />
+<img align="right" src="./gif/rotating-earth.gif" widht="200" />
 
 ## 🌐 Connect With Me
 If you're interested in collaboration or just want to chat:
 
-📧 **Email**: <a href="mailto:vishalkumarggv70@gmail.com">vishalkumarggv70@gmail.com</a>
-🌐 **LinkedIn**: <a href="https://www.linkedin.com/in/vishalsah-webdev">vishalsah-webdev</a>
-❌ **X**: <a href="#">@handle</a>
-📸 **Instagram**: <a href="#">im.vishal_</a>
+📧 **Email**: <a href="mailto:vishalkumarggv70@gmail.com">vishalkumarggv70@gmail.com</a> <br>
+🌐 **LinkedIn**: <a href="https://www.linkedin.com/in/vishalsah-webdev">vishalsah-webdev</a> <br>
+❌ **X**: <a href="#">@handle</a> <br>
+📸 **Instagram**: <a href="#">im.vishal_</a> <br>
 
 
 ## 📈 My GitHub Statistics
