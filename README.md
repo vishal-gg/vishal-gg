@@ -50,7 +50,7 @@ If you're interested in collaboration or just want to chat:
 <br><br>
 
 
-## 📈 My gitHub statistics
+## 📈 My github statistics
 <table>
     <tr>
         <td align="center">
