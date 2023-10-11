@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,kubernetes,docker,c,react&theme=light" />
 </p>
   
-## 🎨 My Creative Toolbox 🧰
+## 🎨 My creative toolbox 🧰
 #### 🖥️ Languages & Frameworks:
 
 JavaScript: 🌌 Node.js, 🚀 Express.js
@@ -33,14 +33,14 @@ Version Control: 🌍 Git & 🐙 GitHub
 🆚 VS Code
 💼 IntelliJ IDEA
 
-## 💻 My Work Experience
+## 💻 My work experience
 
 <picture>
   <source media="(max-width: 950px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
  <img align="right" src="./gif/rotating-earth.gif" widht="200" />
 </picture>
 
-## 🌐 Connect With Me
+## 🌐 Connect with me:
 If you're interested in collaboration or just want to chat:
 
 📧 **Email**: [vishalkumarggv70@gmail.com](mailto:vishalkumarggv70@gmail.com) <br>
@@ -50,7 +50,7 @@ If you're interested in collaboration or just want to chat:
 <br><br>
 
 
-## 📈 My GitHub Statistics
+## 📈 My gitHub statistics
 <table>
     <tr>
         <td align="center">
