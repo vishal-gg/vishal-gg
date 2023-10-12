@@ -34,19 +34,41 @@ Version Control: 🌍 Git & 🐙 GitHub
 💼 IntelliJ IDEA
 
 ## 💻 My work experience
+Here are the some projects that I've build throughout my development journey:
+ 
+- 🤖 **AI ChatBot**: _some text for this repo._
+  - [Repo](https://github.com/vishal-gg/AI-ChatBot) | [Coming soon 🚀](#)
+
+- 🎬 **IMDb Clone**: _some text for this repo._
+  - [Repo](https://github.com/vishal-gg/IMDb_Clone) | [Demo 🚀](https://getinternetmovies.vercel.app)
+
+- 🛍️ **Amazon Clone**: _some text for this repo._
+  - [Repo](https://github.com/vishal-gg/Amazon_Clone) | [Coming soon 🚀](#)
+
+- 🍽️ **Restaurant App**: _some text for this repo._
+  - [Repo](https://github.com/vishal-gg/Restaurant_App) | [Demo 🚀](https://eatopendoor.vercel.app)
+
+- 🛒 **E-commerce**: _some text for this repo._
+  - [Repo](https://github.com/vishal-gg/E-Commerce) | [Demo 🚀](https://snapstore.vercel.app)
+
+- 📁 **File Sharing App**: _some text for this repo._
+  - [Repo](https://github.com/vishal-gg/File-Sharing-App--prod) | [Demo 🚀](https://snapsharefile.vercel.app)
+
+- 🔍 **More Projects**: Dive deeper into my craftsmanship.
+  - [🔗 View All Repositories](https://github.com/vishal-gg?tab=repositories)
 
 <picture>
   <source media="(max-width: 950px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
  <img align="right" src="./gif/rotating-earth.gif" widht="200" />
 </picture>
 
-## 🌐 Connect with me:
+## 🌐 Connect with me
 If you're interested in collaboration or just want to chat:
 
-📧 **Email**: [vishalkumarggv70@gmail.com](mailto:vishalkumarggv70@gmail.com) <br>
-🌐 **LinkedIn**: [vishalsah-webdev](https://www.linkedin.com/in/vishalsah-webdev) <br>
-❌ **Twitter**: [@handle](#) <br>
-📸 **Instagram**: [im.vishal_](#) <br>
+- 📧 **Email**: [vishalkumarggv70@gmail.com](mailto:vishalkumarggv70@gmail.com)
+- 🌐 **LinkedIn**: [vishalsah-webdev](https://www.linkedin.com/in/vishalsah-webdev)
+- ❌ **Twitter**: [@handle](#)
+- 📸 **Instagram**: [im.vishal_](#)
 <br><br>
 
 
