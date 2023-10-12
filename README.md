@@ -41,7 +41,7 @@ Here are the some projects that I've build throughout my development journey:
 
 <picture>
   <source media="(max-width: 1000px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
- <img align="right" src="./gif/project-showcase.gif" width="400" />
+ <img align="right" src="./gif/project-showcase.gif" />
 </picture>
  
  - 🤖 **AI ChatBot**: _Because who needs real humans anyway? ._
