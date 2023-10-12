@@ -40,8 +40,12 @@ Here are the some projects that I've build throughout my development journey:
  <summary><strong>View Projects</strong>🔎📚✨</summary>
 
 <picture>
-  <source media="(max-width: 1000px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
- <img align="right" src="./gif/showcase.gif" />
+  <source media="(max-width: 1200px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
+ <img align="right" src="./gif/project-showcase.gif" />
+</picture>
+<picture>
+  <source media="(min-width: 1200px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
+ <img src="./gif/showcase.gif" />
 </picture>
  
  - 🤖 **AI ChatBot**: _Because who needs real humans anyway? ._
