@@ -74,7 +74,7 @@ Here are the some projects that I've build throughout my development journey:
  </details>
 
 <picture>
-  <source media="(max-width: 1000px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
+  <source media="(max-width: 1050px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
  <img align="right" src="./gif/rotating-earth.gif" widht="200" />
 </picture>
 
@@ -86,8 +86,8 @@ If you're interested in collaboration or just want to chat:
 - ❌ **Twitter**: [@handle](#)
 - 📸 **Instagram**: [im.vishal_](#)
 <picture>
-  <source media="(min-width: 1000px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
- <img src="./gif/rotating-earth.gif" widht="100" />
+  <source media="(min-width: 1050px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
+ <img src="./gif/rotating-earth.gif" widht="50" />
 </picture>
 <br><br>
 
