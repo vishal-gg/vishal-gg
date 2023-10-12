@@ -35,20 +35,29 @@ Version Control: 🌍 Git & 🐙 GitHub
 
 ## 💻 My work experience
 Here are the some projects that I've build throughout my development journey:
+
+<img src="./gif/rotating-earth.gif" align="right" />
  
-- 🤖 **AI ChatBot**: _[Repo](https://github.com/vishal-gg/AI-ChatBot) | [Coming soon 🚀](#)_
+- 🤖 **AI ChatBot**: _some text for this repo._
+  - [Repo](https://github.com/vishal-gg/AI-ChatBot) | [Coming soon 🚀](#)
 
-- 🎬 **IMDb Clone**: _[Repo](https://github.com/vishal-gg/IMDb_Clone) | [Demo 🚀](https://getinternetmovies.vercel.app)_
+- 🎬 **IMDb Clone**: _some text for this repo._
+  - [Repo](https://github.com/vishal-gg/IMDb_Clone) | [Demo 🚀](https://getinternetmovies.vercel.app)
 
-- 🛍️ **Amazon Clone**: _[Repo](https://github.com/vishal-gg/Amazon_Clone) | [Coming soon 🚀](#)_
+- 🛍️ **Amazon Clone**: _some text for this repo._
+  - [Repo](https://github.com/vishal-gg/Amazon_Clone) | [Coming soon 🚀](#)
 
-- 🍽️ **Restaurant App**: _[Repo](https://github.com/vishal-gg/Restaurant_App) | [Demo 🚀](https://eatopendoor.vercel.app)_
+- 🍽️ **Restaurant App**: _some text for this repo._
+  - [Repo](https://github.com/vishal-gg/Restaurant_App) | [Demo 🚀](https://eatopendoor.vercel.app)
 
-- 🛒 **E-commerce**: _[Repo](https://github.com/vishal-gg/E-Commerce) | [Demo 🚀](https://snapstore.vercel.app)_
+- 🛒 **E-commerce**: _some text for this repo._
+  - [Repo](https://github.com/vishal-gg/E-Commerce) | [Demo 🚀](https://snapstore.vercel.app)
 
-- 📁 **File Sharing App**: _[Repo](https://github.com/vishal-gg/File-Sharing-App--prod) | [Demo 🚀](https://snapsharefile.vercel.app)_
+- 📁 **File Sharing App**: _some text for this repo._
+  - [Repo](https://github.com/vishal-gg/File-Sharing-App--prod) | [Demo 🚀](https://snapsharefile.vercel.app)
 
-- 🔍 **More Projects**: _[🔗 View All Repositories](https://github.com/vishal-gg?tab=repositories)_
+- 🔍 **More Projects**: Dive deeper into my craftsmanship.
+  - [🔗 View All Repositories](https://github.com/vishal-gg?tab=repositories)
 
 <picture>
   <source media="(max-width: 950px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
