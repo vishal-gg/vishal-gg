@@ -41,7 +41,6 @@ Here are the some projects that I've build throughout my development journey:
 
 
 <picture>
-<br>
   <source media="(min-width: 1200px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
  <img src="./gif/showcase.gif" />
 </picture>
@@ -49,13 +48,13 @@ Here are the some projects that I've build throughout my development journey:
  - 🤖 **AI ChatBot**: _Because who needs real humans anyway? ._
    - [Repo](https://github.com/vishal-gg/AI-ChatBot) | [Coming soon 🚀](#)
 
-- 🎬 **IMDb Clone**: _Because the original IMDb just wasn't enough for us._
-  - [Repo](https://github.com/vishal-gg/IMDb_Clone) | [Demo 🚀](https://getinternetmovies.vercel.app)
-
 <picture>
   <source media="(max-width: 1200px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
  <img align="right" src="./gif/project-showcase.gif" />
 </picture>
+
+- 🎬 **IMDb Clone**: _Because the original IMDb just wasn't enough for us._
+  - [Repo](https://github.com/vishal-gg/IMDb_Clone) | [Demo 🚀](https://getinternetmovies.vercel.app)
 
 - 🛍️ **Amazon Clone**: _Why shop at the real Amazon when you could shop here?_
   - [Repo](https://github.com/vishal-gg/Amazon_Clone) | [Coming soon 🚀](#)
