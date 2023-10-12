@@ -45,7 +45,7 @@ Here are the some projects that I've build throughout my development journey:
  <img src="./gif/showcase.gif" />
 </picture>
  
- - 🤖 **AI ChatBot**: _Because who needs real humans anyway? ._
+ - 🤖 **AI ChatBot**: _Because who needs real humans anyway?._🤷‍♂️
    - [Repo](https://github.com/vishal-gg/AI-ChatBot) | [Coming soon 🚀](#)
 
 <picture>
@@ -68,7 +68,7 @@ Here are the some projects that I've build throughout my development journey:
 - 📁 **File Sharing App**: _Because sharing is caring, but mostly it's just faster this way._🤝⚡
   - [Repo](https://github.com/vishal-gg/File-Sharing-App--prod) | [Demo 🚀](https://snapsharefile.vercel.app)
 
-- 🔍 **More Projects**: _See what else I've been working on._
+- 🔍 **More Projects**: _See what else I've been working on._🛠️👨‍💻
   - [🔗 View All Repositories](https://github.com/vishal-gg?tab=repositories)
 
  </details>
