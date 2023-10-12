@@ -36,10 +36,11 @@ Version Control: 🌍 Git & 🐙 GitHub
 ## 💻 My work experience
 Here are the some projects that I've build throughout my development journey:
 
-<img src="./gif/rotating-earth.gif" align="right" />
+ <details>
+ <summary><strong>View Projects</strong>🔎📚✨</summary>
  
-- 🤖 **AI ChatBot**: _some text for this repo._
-  - [Repo](https://github.com/vishal-gg/AI-ChatBot) | [Coming soon 🚀](#)
+ - 🤖 **AI ChatBot**: _some text for this repo._
+   - [Repo](https://github.com/vishal-gg/AI-ChatBot) | [Coming soon 🚀](#)
 
 - 🎬 **IMDb Clone**: _some text for this repo._
   - [Repo](https://github.com/vishal-gg/IMDb_Clone) | [Demo 🚀](https://getinternetmovies.vercel.app)
@@ -58,6 +59,8 @@ Here are the some projects that I've build throughout my development journey:
 
 - 🔍 **More Projects**: Dive deeper into my craftsmanship.
   - [🔗 View All Repositories](https://github.com/vishal-gg?tab=repositories)
+
+ </details>
 
 <picture>
   <source media="(max-width: 950px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
