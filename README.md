@@ -87,7 +87,7 @@ If you're interested in collaboration or just want to chat:
 - 📸 **Instagram**: [im.vishal_](#)
 <picture>
   <source media="(min-width: 1050px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
- <img src="./gif/rotating-earth.gif" widht="50" />
+ <img src="./gif/rotating-earth2.gif" />
 </picture>
 <br><br>
 
@@ -132,7 +132,5 @@ If you're interested in collaboration or just want to chat:
     </tr>
 </table>
 
-<p align="center">© 2023 Creative Me, all rights reserved. Crafted with ❤️ for the love of coding.</p>
-<p align="center">
-https://github.com/vishal-gg
+<p align="center">© 2023 Creative Me, all rights reserved.<br> Crafted with ❤️
 </p>
