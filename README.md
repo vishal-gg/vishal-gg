@@ -39,25 +39,25 @@ Here are the some projects that I've build throughout my development journey:
  <details>
  <summary><strong>View Projects</strong>🔎📚✨</summary>
  
- - 🤖 **AI ChatBot**: _some text for this repo._
+ - 🤖 **AI ChatBot**: _Because who needs real humans anyway? ._
    - [Repo](https://github.com/vishal-gg/AI-ChatBot) | [Coming soon 🚀](#)
 
-- 🎬 **IMDb Clone**: _some text for this repo._
+- 🎬 **IMDb Clone**: _Because the original IMDb just wasn't enough for us._
   - [Repo](https://github.com/vishal-gg/IMDb_Clone) | [Demo 🚀](https://getinternetmovies.vercel.app)
 
-- 🛍️ **Amazon Clone**: _some text for this repo._
+- 🛍️ **Amazon Clone**: _Why shop at the real Amazon when you could shop here?_
   - [Repo](https://github.com/vishal-gg/Amazon_Clone) | [Coming soon 🚀](#)
 
-- 🍽️ **Restaurant App**: _some text for this repo._
+- 🍽️ **Restaurant App**: _In case you get hungry while coding._
   - [Repo](https://github.com/vishal-gg/Restaurant_App) | [Demo 🚀](https://eatopendoor.vercel.app)
 
-- 🛒 **E-commerce**: _some text for this repo._
+- 🛒 **E-commerce**: _Yet another place to burn your salary._
   - [Repo](https://github.com/vishal-gg/E-Commerce) | [Demo 🚀](https://snapstore.vercel.app)
 
-- 📁 **File Sharing App**: _some text for this repo._
+- 📁 **File Sharing App**: _Because sharing is caring, but mostly it's just faster this way._
   - [Repo](https://github.com/vishal-gg/File-Sharing-App--prod) | [Demo 🚀](https://snapsharefile.vercel.app)
 
-- 🔍 **More Projects**: Dive deeper into my craftsmanship.
+- 🔍 **More Projects**: _See what else I've been working on._
   - [🔗 View All Repositories](https://github.com/vishal-gg?tab=repositories)
 
  </details>
