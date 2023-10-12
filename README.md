@@ -38,6 +38,11 @@ Here are the some projects that I've build throughout my development journey:
 
  <details>
  <summary><strong>View Projects</strong>🔎📚✨</summary>
+
+<picture>
+  <source media="(max-width: 950px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
+ <img align="right" src="./gif/project-showcase.gif" />
+</picture>
  
  - 🤖 **AI ChatBot**: _Because who needs real humans anyway? ._
    - [Repo](https://github.com/vishal-gg/AI-ChatBot) | [Coming soon 🚀](#)
