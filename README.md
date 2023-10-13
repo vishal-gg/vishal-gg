@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20There!%20👋&fontSize=60" />
   </picture>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=500&height=70&duration=4000&lines=My+name+is+Vishal.;I'm+a+Front-end+Developer+👨‍💻;Skilled+in+modern+web+technologies;Looking+for+collaboration." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=500&height=70&duration=4000&lines=My+name+is+Vishal.;I'm+a+Front-end+Developer+👨‍💻;A+problem+solver+💡;A+Innovative+thinker+✨;A+cool+guy+😎✌;and...+oh!,+I+can+center+a+Div+flawlessly+😏;" />
 </p>
  
  - 📢 I’m currently working on **Portfolio**
@@ -76,9 +76,11 @@ Here are the some projects that I've build throughout my development journey:
 If you're interested in collaboration or just want to chat:
 
 - 📧 **Email**: [vishalkumarggv70@gmail.com](mailto:vishalkumarggv70@gmail.com)
-- 🌐 **LinkedIn**: [vishalsah-webdev](https://www.linkedin.com/in/vishalsah-webdev)
-- ❌ **Twitter**: [@handle](#)
-- 📸 **Instagram**: [im.vishal_](#)
+- 🔗 **LinkedIn**: [vishalsah-webdev](https://www.linkedin.com/in/vishalsah-webdev)
+- ❌ **Twitter**: [@FirstMan1674698](https://x.com/FirstMan1674698?t=lbpU3uAJYOBOfX6E1pzULw&s=09)
+- 📸 **Instagram**: [@im.vishal_](https://instagram.com/im.vishal_?igshid=OGQ5ZDc2ODk2ZA==)
+- 📱 **WhatsApp**: [click here](https://wa.me/qr/YH4ZYZZUZKZKN1)
+  - _⚠️ Note: whatsApp link only works with mobile._
 <picture>
   <source media="(min-width: 975px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
  <img src="./gif/rotating-earth2.gif" />
