@@ -22,15 +22,9 @@
 ## 🎨 My creative toolbox
   <h3 align="center">⚡ Tech Stack ⚡</h3>
 <p align="center">
-    <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,tailwind,react,nextjs,express,firebase,github,mongodb&theme=light">
     <img src="https://skillicons.dev/icons?i=nodejs,tailwind,react,nextjs,express,firebase,github,mongodb&theme=dark" />
-    </picture>
     <br />
-    <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=sass,javascript,typescript,css,html,materialui,vscode,figma,bootstrap,git,redux&theme=light">
     <img src="https://skillicons.dev/icons?i=sass,javascript,typescript,css,html,materialui,vscode,figma,bootstrap,git,redux&theme=dark" />
-    </picture>
 </p>
 
 ## 💻 My work experience
