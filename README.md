@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20There!%20👋&fontSize=60">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20There!%20👋&fontSize=60&fontColor=000000">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFE5CA,100:FFE5CA&height=100&section=header&text=Hi%20There!%20👋&fontSize=60&fontColor=000000">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20There!%20👋&fontSize=60" />
   </picture>
@@ -17,7 +17,7 @@
 - 💬 Ask me about **React, Javascript.. or anything like why Eren started rumbling**
 
 - ⚡ Fun fact **Beyond coding, video editing is my true passion.**
-- 📞 How to reach me? **[click here](#connect-with-me)**
+- 📞 How to reach me? **[click here](#-connect-with-me)**
 
   <h2 align="center">💥 Teach Stack 💥</h2>
 <p align="center">
