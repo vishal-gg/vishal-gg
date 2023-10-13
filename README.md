@@ -20,17 +20,19 @@
 - 📞 How to reach me? **[click here](#-connect-with-me)**
 
 ## 🎨 My creative toolbox
-  <h4 align="center">Languages & Frameworks ✨</h4>
+  <h3 align="center">⚡ Tech Stack ⚡</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,react,nextjs,express&theme=dark" />
+    <picture>
+    <source media="(prefers-color-scheme= dark)" srcset="https://skillicons.dev/icons?i=nodejs,tailwind,react,nextjs,express,firebase,github,mongodb&theme=dark">
+    <source media="(prefers-color-scheme= light)" srcset="https://skillicons.dev/icons?i=nodejs,tailwind,react,nextjs,express,firebase,github,mongodb&theme=light">
+    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,react,nextjs,express,firebase,github,mongodb&theme=dark" />
+    </picture>
     <br />
-    <img src="https://skillicons.dev/icons?i=sass,javascript,typescript,css,html,bootstrap&theme=dark" />
-</p>
-<h4 align="center">⚡ Tech Stack ⚡</h4>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,github,materialui,vscode,figma,&theme=dark" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=git,redux&theme=dark" />
+    <picture>
+    <source media="(prefers-color-scheme= dark)" srcset="https://skillicons.dev/icons?i=sass,javascript,typescript,css,html,materialui,vscode,figma,bootstrap,git,redux&theme=dark">
+    <source media="(prefers-color-scheme= light)" srcset="https://skillicons.dev/icons?i=sass,javascript,typescript,css,html,materialui,vscode,figma,bootstrap,git,redux&theme=light">
+    <img src="https://skillicons.dev/icons?i=sass,javascript,typescript,css,html,materialui,vscode,figma,bootstrap,git,redux&theme=dark" />
+    </picture>
 </p>
 
 ## 💻 My work experience
