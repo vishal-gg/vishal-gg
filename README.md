@@ -19,36 +19,19 @@
 - ⚡ Fun fact **Beyond coding, video editing is my true passion.**
 - 📞 How to reach me? **[click here](#-connect-with-me)**
 
-  <h2 align="center">💥 Teach Stack 💥</h2>
+## 🎨 My creative toolbox
+  <h4 align="center">Languages & Frameworks ✨</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=css,kubernetes,docker,c,react&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,react,nextjs,express&theme=dark" />
     <br />
-    <img src="https://skillicons.dev/icons?i=js,html,css,kubernetes,docker,c,react&theme=light" />
+    <img src="https://skillicons.dev/icons?i=sass,javascript,typescript,css,html,bootstrap&theme=dark" />
 </p>
-  
-## 🎨 My creative toolbox 🧰
-#### 🖥️ Languages & Frameworks:
-
-JavaScript: 🌌 Node.js, 🚀 Express.js
-Python: 🐍 Django, 🍜 Flask
-Java: ☕ Spring Boot
-🛠️ Tools & Platforms:
-
-Frontend: 🎨 React, ⚛️ Vue, 🅰️ Angular
-Database: 🐘 PostgreSQL, 🌱 MongoDB, 🚀 GraphQL
-Version Control: 🌍 Git & 🐙 GitHub
-🌐 Cloud & Deployment:
-
-🚢 Docker
-☁️ AWS & 🌩️ Azure
-🤖 DevOps:
-
-🧪 Travis CI, 🌀 Jenkins
-🐳 Kubernetes
-🔧 Editors & IDEs:
-
-🆚 VS Code
-💼 IntelliJ IDEA
+<h4 align="center">⚡ Tech Stack ⚡</h4>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,github,materialui,vscode,figma,&theme=dark" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=git,redux&theme=dark" />
+</p>
 
 ## 💻 My work experience
 Here are the some projects that I've build throughout my development journey:
