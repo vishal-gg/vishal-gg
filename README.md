@@ -1,6 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi!%20There&fontSize=60" />
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20There!%20👋&fontSize=60">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20There!%20👋&fontSize=60&fontColor=000000">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20There!%20👋&fontSize=60" />
+  </picture>
 
-<p align="center"><img src="http://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&center=true&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" /></p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=500&height=70&duration=4000&lines=My+name+is+Vishal.;I'm+a+Front-end+Developer+👨‍💻;Skilled+in+modern+web+technologies;Looking+for+collaboration." />
+</p>
+ 
+ - 📢 I’m currently working on **Portfolio**
+ 
+- 🌱 I’m currently learning **Modern web animations**
+- 🤝 Looking for **Collaborations in front-end projects**
+
+- 💬 Ask me about **React, Javascript.. or anything like why Eren started rumbling**
+
+- ⚡ Fun fact **Beyond coding, video editing is my true passion.**
+- 📞 How to reach me? **[click here](#connect-with-me)**
 
   <h2 align="center">💥 Teach Stack 💥</h2>
 <p align="center">
