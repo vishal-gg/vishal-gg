@@ -23,9 +23,9 @@
 
   <h3 align="center">⚡ Tech Stack ⚡</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,react,nextjs,express,firebase,github,mongodb&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,react,nextjs,express,firebase,github,mongodb,vite&theme=dark" />
     <br />
-    <img src="https://skillicons.dev/icons?i=sass,javascript,typescript,css,html,materialui,vscode,figma,bootstrap,git,redux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=sass,javascript,typescript,css,html,materialui,vscode,figma,vercel,postman,stackoverflow,git,redux&theme=dark" />
 </p>
 
 ## 💻 My work experience
@@ -41,7 +41,7 @@ Here are the some projects that I've build throughout my development journey:
 </picture>
  
  - 🤖 **AI ChatBot**: _Because who needs real humans anyway?._ 🤷‍♂️
-   - [Repo](https://github.com/vishal-gg/AI-ChatBot) | [Coming soon 🚀](#)
+   - [Repo](https://github.com/vishal-gg/AI-ChatBot) | [Demo 🚀](https://yourchatbuddy.vercel.app)
 
 <picture>
   <source media="(max-width: 1200px)" srcset="https://upload.wikimedia.org/wikipedia/commons/1/1d/No_image.svg">
@@ -54,7 +54,7 @@ Here are the some projects that I've build throughout my development journey:
 
 - 🛍️ **Amazon Clone**: _Why shop at the real Amazon when you could shop here?_ 😎✌
 
-  - [Repo](https://github.com/vishal-gg/Amazon_Clone) | [Coming soon 🚀](#)
+  - [Repo](https://github.com/vishal-gg/Amazon_Clone) | [Demo 🚀](https://amazoncopy.vercel.app)
 
 - 🍽️ **Restaurant App**: _In case you get hungry while coding._ 🌮🍜
 
