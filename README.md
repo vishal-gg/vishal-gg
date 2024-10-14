@@ -134,6 +134,7 @@ _⚠️ Note: whatsApp link only works with mobile._
 </picture>
         </td>
     </tr>
+    
 </table>
 
 <p align="center">© 2023 Creative Me, all rights reserved.<br> Crafted with ❤️
